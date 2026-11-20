@@ -1,7 +1,7 @@
 # Hi, I'm Mohamed Vaseem 👋
 
-**Full Stack Developer** · Next.js · FastAPI · Go · Rust · AWS
-📍 Tamil Nadu, India · Open to relocate · 🗣️ English, Tamil
+**Full Stack Developer** · Next.js · FastAPI · Go · Rust · AWS · Spring · .NET · Cloud
+📍 Tamil Nadu, India · Open to relocate · English, Tamil
 
 I build production-style web applications end to end: responsive frontends, secure APIs, payment flows and cloud deployment. I've worked as an intern and employed developer, and I take freelance projects.
 
@@ -10,20 +10,16 @@ I build production-style web applications end to end: responsive frontends, secu
 ## 🚀 Featured Projects
 
 ### 🛍️ [JF Online Burka](https://github.com/mohamedvaseemi/jf-online-burka)
-Full e-commerce platform for women's fashion, with a product catalogue, authentication and an admin-managed store.
-**Next.js · TypeScript · MongoDB · OAuth 2.0** · [Live demo](https://jf-online-burka.vercel.app)
+Full-stack women's fashion e-commerce store with secure authentication (NextAuth, Argon2 hashing, email OTP verification), Cloudinary image handling, interactive 3D elements and a responsive light/dark UI.
+**Next.js · TypeScript · MongoDB · NextAuth · Cloudinary · Three.js · Tailwind CSS** · [Live demo](https://jf-online-burka.vercel.app)
 
-### 📈 [SaaS CRM & Lead Management](https://github.com/mohamedvaseemi/saas-crm)
-Multi-user CRM for capturing, tracking and converting leads.
-**[add your stack here]**
+### 📈 [Customer Relationship Management (CRM)](https://github.com/mohamedvaseemi/customer-relationship-management/)
+Customer relationship management system for tracking customers and leads, with Google sign-in, JWT authentication, analytics dashboards and Razorpay payment integration.
+**Next.js · PostgreSQL · Google OAuth · Razorpay · Recharts · Cloudinary · Tailwind CSS** · [Live demo](https://kibon-se-crm.vercel.app/login)
 
-### 💳 [Payment Gateway Integration](https://github.com/mohamedvaseemi/payment-gateway-using-java)
-Working payment gateway flow, covering order creation and payment verification.
-**Java**
-
-### 📊 [Daily Career Tracker](https://github.com/mohamedvaseemi/daily-career-tracker-frontend)
-Dashboard for tracking daily progress during a job search.
-**Vue** · [Live demo](https://daily-career-tracker-frontend.vercel.app)
+### 🌐 [Developer Portfolio](https://github.com/mohamedvaseemi/mohamed-vaseem-portfolio) · [Live site](https://mohamed-vaseem-portfolio.vercel.app/)
+Freelance-focused portfolio site with smooth animations, a MongoDB backend, JWT authentication and email notifications through Nodemailer.
+**Next.js 15 · React 19 · Tailwind CSS · Framer Motion · MongoDB**
 
 ---
 
@@ -49,8 +45,8 @@ Dashboard for tracking daily progress during a job search.
 ---
 
 ## 📫 Let's Connect
-- 💼 LinkedIn: [your-linkedin-url]
-- ✉️ Email: [your-email]
-- 🌐 Portfolio: [optional]
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-vaseem-ismail/
+- ✉️ Email: vaseem.ismail.mohamed@gmail.com
+- 🌐 Portfolio: https://mohamed-vaseem-portfolio.vercel.app/
 
 *Currently open to Software Developer / Full Stack roles.*
